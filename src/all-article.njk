@@ -1,0 +1,57 @@
+---
+title: The Beyond Aesthetic Letter
+layout: "base.njk"
+---
+
+    <button class="home-button" onclick="window.location.href='/index.html';">Home</button>
+
+
+    <div class="main-box">
+
+        <div class="spacer"></div>
+
+        <h1>THE<br>
+            BEYOND<br>
+            AESTHETIC<br>
+            LETTER</h1>
+
+    <section class="sub-header">
+        Ideas for those building their own path. Writing on perception, creative identity, and the art of intentional living.</section>
+
+
+
+
+    <section class="picture">
+        <img src="../assets/start.png" alt="">
+    </section>
+
+        <section class="first-email-sub">
+       {# <p style="color: #BDBDBD;">Subscribe for weekly insights or explore past letters below.</p> #}
+       <form>
+        <input type="email" name="email" placeholder="Enter your email" required>
+        <button type="submit">Read For Free</button>
+       </form>
+       <!-- <span id="msg">Thank You For Subscribing!</span> -->
+    </section>
+
+
+<section class="blogposts-container">
+
+    {%- for post in collections.post | reverse-%}
+    <section class="Blogpost">
+        <a href="{{ post.url }}"><h2 class="title" >{{ post.data.title }}</h2></a>
+        <p class="info">{{ post.data.author }} · {{ post.data.date | postDate }}</p>
+        <hr class="line">
+    </section>
+    {%- endfor %}
+
+
+</section>
+
+
+{# <section class="loadmore">
+<p>Load More</p>
+</section> #}
+
+
+</div>
