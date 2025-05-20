@@ -6,7 +6,7 @@ const ANIMATION_CONFIG = {
             forward: 'moveProjects',
             reverse: 'moveProjectsReverse'
         },
-        fadeOutElements: '.fabio-text, .blog-text, .email-text, .about-text',
+        fadeOutElements: '.fabio-text, .blog-text, .instagram-text, .about-text',
         fadeInElements: '.projects-hub-text, .projects-hub-items'
     },
     about: {
@@ -15,7 +15,7 @@ const ANIMATION_CONFIG = {
             forward: 'moveAbout',
             reverse: 'moveAboutReverse'
         },
-        fadeOutElements: '.fabio-text, .blog-text, .email-text, .projects-text',
+        fadeOutElements: '.fabio-text, .blog-text, .instagram-text, .projects-text',
         fadeInElements: '.about-hub-text, .about-hub-items'
     },
 };

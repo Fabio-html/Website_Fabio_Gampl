@@ -3,10 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Secret For Creating Consistently Without Forcing It</title>
+    <title>The Secret Of Creating Consistently Without Forcing It</title>
     <link rel="stylesheet" href="/style.css">
     <link rel="stylesheet" href="https://use.typekit.net/eer3cem.css">
     <link rel="stylesheet" href="https://use.typekit.net/eer3cem.css">
+    <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
 </head>
 <body>
         
@@ -17,7 +19,7 @@
 
     <div class="spacer"></div>
 
-    <h1 class="headline-blog">The Secret For Creating Consistently Without Forcing It</h1>
+    <h1 class="headline-blog">The Secret Of Creating Consistently Without Forcing It</h1>
     <p class="blog-info">Fabio Gampl · May 16, 2025</p>
 
     <img src="/assets/Images/2025-05-16/01.png" alt="">
@@ -264,5 +266,18 @@
 
 
 </div>
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", (user) => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+
 </body>
 </html>
