@@ -32,7 +32,7 @@ body {
     align-items: center;
     align-content: center;
     animation: intro 1s ease-in;
-    z-index: 1000;
+    z-index: 10;
 }
 
 .hub > * {
@@ -116,7 +116,7 @@ body {
 
 .about-hub-items video {
     height: 100vh;
-    z-index: 2000;
+    z-index: 20;
     object-fit: contain;  
 }
 
