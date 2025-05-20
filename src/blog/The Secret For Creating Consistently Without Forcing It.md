@@ -3,7 +3,7 @@ title: The Secret For Creating Consistently Without Forcing It
 author: Fabio Gampl
 date: 2025-05-16
 ---
-<img src="/assets/Images/2025-19-04/01.png" alt="">
+<img src="/assets/Images/2025-05-16/01.png" alt="">
 
 > Don't confuse motion with action.
 > *Benjamin Franklinn*  
@@ -204,7 +204,7 @@ To help you answer this question, I will give you a framework of the four differ
 
 ## The 4 Phases Of Every Project
 
-<img src="/assets/Images/2025-19-04/02.png" alt="">
+<img src="/assets/Images/2025-05-16/02.png" alt="">
 
 > "To everything there is a season. A time to be born, a time to die; A time to plant, and a time to pluck up; A time to kill, and a time to heal; A time to break down, and a time to build up."   
 > *\- Ecclesiastes 3:1-8*
