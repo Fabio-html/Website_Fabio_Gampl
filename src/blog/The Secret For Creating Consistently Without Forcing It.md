@@ -1,12 +1,12 @@
 ---
 title: The Secret For Creating Consistently Without Forcing It
 author: Fabio Gampl
-date: 2025-16-05
+date: 2025-05-16
 ---
 <img src="/assets/Images/2025-19-04/01.png" alt="">
 
 > Don't confuse motion with action.
-> *Benjamin Franklin*  
+> *Benjamin Franklinn*  
 
 Most people think productivity is about doing more.
 
