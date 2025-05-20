@@ -1,5 +1,5 @@
 ---
-title: The Secret For Creating Consistently Without Forcing It
+title: The Secret Of Creating Consistently Without Forcing It
 author: Fabio Gampl
 date: 2025-05-16
 ---
