@@ -15,5 +15,3 @@ collections:
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Tag", name: "tag", widget: "list", default: ["post"] }
       - { label: "Body", name: "body", widget: "markdown" }
-    extra_styles:
-      - /style.css
