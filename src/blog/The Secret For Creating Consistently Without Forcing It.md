@@ -36,9 +36,7 @@ We get trapped.
 
 But maybe there's another way.
 
-What if there is a different way to approach productivity?
-
-A healthier, more meaningful way.
+A healthier, more meaningful approach.
 
 One that not only improves your well-being but also helps you reach your goals faster.
 
@@ -54,7 +52,7 @@ From *mindless action* to *intentional living*.
 
 That's what this letter is about.
 
-Let's start\!
+Let's start!
 
 ## Understanding The Two Productivity Modes
 
@@ -80,9 +78,9 @@ I started blaming myself.
 
 I tried to force myself to get back to work, but the energy wasn’t there.
 
-So I paused…
+So I paused... 
 
-tooked a step back and question myself about how I defined productivity in the first place.
+took a step back and questioned how I had defined productivity in the first place.
 
 Slowly, a new perspective began to form.
 
@@ -100,7 +98,7 @@ However, one of them has many negative consequences.
 
 ### Aspiration Mode vs. Survival Mode
 
-> “We get lost in doing, in the urgency of survival, and we forget we are human beings.”  
+> “We get lost in doing, in the urgency of survival, and we forget we are human beings.”\
 > *– Tara Brach*
 
 In today’s culture, productivity is often driven by survival.
@@ -131,11 +129,11 @@ Our sense of self.
 
 Psychological survival starts when we feel our self-worth, social mask, or belonging is in danger.
 
-It’s the panic when we’re rejected. 
+It’s the panic when your idea gets ignored
 
-The shutdown when we feel unseen. 
+It’s the shutdown after posting your art online and getting silence.
 
-The overthinking after a social slip-up.
+The overthinking after you tried something new.
 
 In these moments, we’re not trying to stay alive, we’re trying to stay someone. 
 
@@ -194,33 +192,32 @@ Instead of blindly sprinting down the first road, we allow ourselves to stop, st
 
 When acting from aspiration, the underlying motivations are our values, curiosity, and desire to create something meaningful.
 
-It’s about the **why** behind what you do.
-
 Instead of forcing yourself into a static system working like a robot, this approach allows more flexibility.
+
+It invites a deeper question:
 
 What’s the best thing I can do right now to move in the right direction?
 
-To help you answer this question, I will give you a framework of the four different phases you could be in right now and how to change your definition of productivity accordingly.
+To help you answer this question, I will give you a framework of the four different project phases you could be in right now and how to change your definition of productivity accordingly.
 
 ## The 4 Phases Of Every Project
 
 <img src="/assets/Images/2025-05-16/02.png" alt="">
 
-> "To everything there is a season. A time to be born, a time to die; A time to plant, and a time to pluck up; A time to kill, and a time to heal; A time to break down, and a time to build up."   
+> "To everything there is a season. A time to be born, a time to die; A time to plant, and a time to pluck up; A time to kill, and a time to heal; A time to break down, and a time to build up."\
 > *\- Ecclesiastes 3:1-8*
 
 Each creative project is composed of four phases.
 
 You can zoom in or out.  
-   
+
 Apply it to your entire life, a season, an artwork, or even a single idea.  
-   
+
 The pattern stays the same. The scale is up to you.
 
 The first phase, with which everything begins, is one of being in between chapters.
 
 It's the **Lost Phase.**
-
 
 ### The Lost Phase
 
@@ -313,8 +310,6 @@ For me, it was a season of new experiences, meeting people, exploring ideas, and
 That’s what led to this letter.
 
 I’m publishing a new one every two weeks to help you stay consistent on your creative path.
-
-The purpose is to offer reminders to stay on track, because in the chaos of daily life, it’s easy to forget sometimes.
 
 Thank you for reading.
 
