@@ -131,7 +131,7 @@ img {
 .blog-info {
     color: #BDBDBD;
     margin-bottom: var(--main-margin);
-    font-size: var(--main-fontsize);
+    font-size: var(--mainfontsize-);
 }
 
 form {
@@ -178,6 +178,12 @@ span {
     color: #BDBDBD;
     margin-top: 10px;
     display: block;
+}
+
+#msg {
+    color: #d61212;
+    margin-top: 5px;
+    font-size: var(--small-fontsize);
 }
 
 .blogposts-container {

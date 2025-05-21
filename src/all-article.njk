@@ -26,12 +26,12 @@ layout: "base.njk"
     </section>
 
         <section class="first-email-sub">
-       {# <p style="color: #BDBDBD;">Subscribe for weekly insights or explore past letters below.</p> #}
-       <form>
-        <input type="email" name="email" placeholder="Enter your email" required>
-        <button type="submit">Read For Free</button>
+       <p style="color: #BDBDBD;">Subscribe for weekly insights or explore past letters below.</p>
+       <form name="submit-to-google-sheet">
+       <input type="email" name="Email" placeholder="Enter your email" required>
+       <button type="submit">Read For Free</button>
        </form>
-       <!-- <span id="msg">Thank You For Subscribing!</span> -->
+       <span id="msg"></span>
     </section>
 
 
@@ -55,3 +55,24 @@ layout: "base.njk"
 
 
 </div>
+
+
+<script>
+  const scriptURL = 'https://script.google.com/macros/s/AKfycbyjO_v7xsaArZGFt2R1P8n_spCSVIWrGntyqywfxTx49HAPtLEnoerlNv-i8NDajNDC/exec'
+  const form = document.forms['submit-to-google-sheet']
+  const msg = document.getElementById("msg")
+
+  form.addEventListener('submit', e => {
+    e.preventDefault()
+    fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+      .then(response => {
+        msg.innerHTML = "Thank You For Subscribing!"
+        setTimeout(function(){
+            msg.innerHTML = ""
+        },5000)
+        form.reset()
+      }
+      )
+      .catch(error => console.error('Error!', error.message))
+  })
+</script>

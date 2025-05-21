@@ -1,8 +1,13 @@
 backend:
   name: git-gateway
   branch: main
+  
 media_folder: "public/assets/Images"
 public_folder: "/assets/Images"
+
+extra_styles:
+      - /style.css
+
 collections:
   - name: "blog" 
     label: "Blog"
@@ -15,5 +20,3 @@ collections:
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Tag", name: "tag", widget: "list", default: ["post"] }
       - { label: "Body", name: "body", widget: "markdown" }
-    extra_styles:
-      - /style.css
