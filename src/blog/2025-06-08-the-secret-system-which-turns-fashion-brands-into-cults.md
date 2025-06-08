@@ -6,7 +6,6 @@ tag:
   - post
 ---
 > “The whole is greater than the sum of its parts.”
->
 > — Aristotle
 
 Most creative business owners want to build an influential brand.
@@ -139,7 +138,6 @@ To start, we have to begin with the soul, the deeper meaning around which everyt
 ### Philosophy – The Soul
 
 > “People don’t buy what you do; they buy why you do it. And what you do simply proves what you believe.”
->
 > — Simon Sinek
 
 At the core of every brand lies its philosophy.
@@ -183,7 +181,6 @@ A representation of what the brand stands for:
 Pushing against the polished image of luxury fashion and questioning society’s ideas of right and wrong.
 
 > “Fashion loves boxes and labels more than anything. Luxury, not luxury, street, couture, good, bad, buzz, viral, all the same, who cares. Putting luxury fashion into the box of polished, exclusive, and visually expensive is limited and pretty old school.”
->
 > — Demna (Balenciaga’s creative director)
 
 So to build a strong brand people can connect with, start by clearly defining your brand’s “why.” 
@@ -203,9 +200,8 @@ Without anchoring your philosophy in culture, all you have is an idea floating i
 
 ### Culture – The Environment
 
-"To succeed in branding, you have to understand culture, because culture is what shapes people’s perceptions and behavior."
-
-— Martin Lindstrom
+> "To succeed in branding, you have to understand culture, because culture is what shapes people’s perceptions and behavior."
+> — Martin Lindstrom
 
 Every brand exists within a wider cultural environment.
 
@@ -264,9 +260,8 @@ To make it practical, you need to understand how your audience thinks and feels.
 
 ### Psychology – The Mind
 
-"The aim of marketing is to know and understand the customer so well the product or service fits them and sells itself."
-
-— Peter Drucker
+> "The aim of marketing is to know and understand the customer so well the product or service fits them and sells itself."
+> — Peter Drucker
 
 Psychology reveals the person behind the crowd.
 
@@ -390,9 +385,8 @@ Storytelling.
 
 ### Story – The Spine
 
-“Marketing is no longer about the stuff that you make, but about the stories you tell.”
-
-— Seth Godin
+> “Marketing is no longer about the stuff that you make, but about the stories you tell.”
+> — Seth Godin
 
 Storytelling is the most powerful tool to create deep emotional connections.
 
@@ -483,9 +477,8 @@ Your brand voice.
 
 ### Brand Voice – The Personality
 
-"Tone is the personality of the voice you want your brand to have."
-
-— Ann Handley
+> "Tone is the personality of the voice you want your brand to have."
+> — Ann Handley
 
 Your brand voice shapes how you communicate.
 
@@ -560,8 +553,8 @@ Bringing your brand to life through design.
 
 ### Design Language – The Appearance
 
-“Design is the silent ambassador of your brand.”
- — Paul Rand
+> “Design is the silent ambassador of your brand.”
+>  — Paul Rand
 
 Design language is the consistent visual vocabulary a brand uses to express its identity.
 
@@ -623,9 +616,9 @@ The real strength comes from seeing how they connect and work together as a comp
 
 ## 4. The Brand Ecosystem
 
-“A system is never the sum of its parts, but the product of their interactions.”
-
-— Donella Meadows
+> “A system is never the sum of its parts, but the product of their interactions.”
+>
+> — Donella Meadows
 
 So, the total brand ecosystem is built on two core dimensions:
 
