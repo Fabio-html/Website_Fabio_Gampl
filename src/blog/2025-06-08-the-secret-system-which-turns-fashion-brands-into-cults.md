@@ -180,7 +180,7 @@ A representation of what the brand stands for:
 
 Pushing against the polished image of luxury fashion and questioning society’s ideas of right and wrong.
 
-> “Fashion loves boxes and labels more than anything. Luxury, not luxury, street, couture, good, bad, buzz, viral, all the same, who cares. Putting luxury fashion into the box of polished, exclusive, and visually expensive is limited and pretty old school.”
+> “Fashion loves boxes and labels more than anything. Luxury, not luxury, street, couture, good, bad, buzz, viral, all the same, who cares. Putting luxury fashion into the box of polished, exclusive, and visually expensive is limited and pretty old school.”  
 > — Demna (Balenciaga’s creative director)
 
 So to build a strong brand people can connect with, start by clearly defining your brand’s “why.” 
@@ -200,7 +200,7 @@ Without anchoring your philosophy in culture, all you have is an idea floating i
 
 ### Culture – The Environment
 
-> "To succeed in branding, you have to understand culture, because culture is what shapes people’s perceptions and behavior."
+> "To succeed in branding, you have to understand culture, because culture is what shapes people’s perceptions and behavior."  
 > — Martin Lindstrom
 
 Every brand exists within a wider cultural environment.
@@ -260,7 +260,7 @@ To make it practical, you need to understand how your audience thinks and feels.
 
 ### Psychology – The Mind
 
-> "The aim of marketing is to know and understand the customer so well the product or service fits them and sells itself."
+> "The aim of marketing is to know and understand the customer so well the product or service fits them and sells itself."  
 > — Peter Drucker
 
 Psychology reveals the person behind the crowd.
@@ -385,7 +385,7 @@ Storytelling.
 
 ### Story – The Spine
 
-> “Marketing is no longer about the stuff that you make, but about the stories you tell.”
+> “Marketing is no longer about the stuff that you make, but about the stories you tell.”  
 > — Seth Godin
 
 Storytelling is the most powerful tool to create deep emotional connections.
@@ -477,7 +477,7 @@ Your brand voice.
 
 ### Brand Voice – The Personality
 
-> "Tone is the personality of the voice you want your brand to have."
+> "Tone is the personality of the voice you want your brand to have."  
 > — Ann Handley
 
 Your brand voice shapes how you communicate.
@@ -553,7 +553,7 @@ Bringing your brand to life through design.
 
 ### Design Language – The Appearance
 
-> “Design is the silent ambassador of your brand.”
+> “Design is the silent ambassador of your brand.”  
 >  — Paul Rand
 
 Design language is the consistent visual vocabulary a brand uses to express its identity.
@@ -616,8 +616,7 @@ The real strength comes from seeing how they connect and work together as a comp
 
 ## 4. The Brand Ecosystem
 
-> “A system is never the sum of its parts, but the product of their interactions.”
->
+> “A system is never the sum of its parts, but the product of their interactions.”    
 > — Donella Meadows
 
 So, the total brand ecosystem is built on two core dimensions:
