@@ -137,7 +137,7 @@ To start, we have to begin with the soul, the deeper meaning around which everyt
 
 ### Philosophy – The Soul
 
-> “People don’t buy what you do; they buy why you do it. And what you do simply proves what you believe.”
+> “People don’t buy what you do; they buy why you do it. And what you do simply proves what you believe.”  
 > — Simon Sinek
 
 At the core of every brand lies its philosophy.
