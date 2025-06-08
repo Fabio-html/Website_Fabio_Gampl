@@ -12,7 +12,6 @@ tag:
 
 Most creative business owners want to build an influential brand.
 
-
 Something unforgettable. Timeless. Culture-shaping.
 
 Something that stands out, others look up to, and celebrate.
@@ -53,7 +52,7 @@ A deep dive into the inner workings of the ecosystem where an idea can organical
 
 Let’s start.
 
-## 2. Reframing Branding as a Living System
+## Reframing Branding as a Living System
 
 We’ve been taught to think of branding as a static step-by-step process.
 
@@ -120,7 +119,7 @@ For now, my focus is more on explaining the basics and how everything works toge
 
 Subscribe to the newsletter to stay up-to-date with future, more detailed analyses of every component.
 
-## 3. The 6 Pillars Of Iconic Brand Design
+## The 6 Pillars Of Iconic Brand Design
 
 Every fashion brand is built on six fundamental components.
 
@@ -422,30 +421,30 @@ Patterns deeply embedded in the human psyche.
 
 Here is a quick overview of the 12 brand archetypes with fashion-focused examples:
 
-1. **The Innocent** — A return to purity and joy
-   *Brand: Jacquemus* — Childlike wonder, Mediterranean sun, poetic simplicity.
-2. **The Explorer** — The journey to freedom and self-discovery
-   *Brand: Arc’teryx* — Performance gear for those seeking the wild.
-3. **The Sage** — Uncovering truth through knowledge
-   *Brand: Maison Margiela* — Deconstructing fashion to reveal deeper meaning.
-4. **The Hero** — Overcoming great odds to prove worth
-   *Brand: Nike* — Timeless storytelling of courage and greatness.
-5. **The Outlaw** — Breaking the system to create change
-   *Brand: Balenciaga* — Provocative, boundary-pushing, and unapologetically subversive.
-6. **The Magician** — Turning dreams into reality
-   *Brand: Iris van Herpen* — Fuses tech and couture into wearable art.
-7. **The Everyman** — Belonging and common humanity
-   *Brand: Uniqlo* — Simple, functional clothing for everyone.
-8. **The Lover** — Passion, connection, and beauty
-   *Brand: Dior* — Romanticism, elegance, and deep emotional storytelling.
-9. **The Jester** — Lightening up and enjoying life
-   *Brand: Moschino* — Playful, ironic fashion that doesn’t take itself too seriously.
-10. **The Caregiver** — Protecting and nurturing others
-    *Brand: Patagonia* — Ethical, responsible, and earth-conscious.
-11. **The Creator** — Bringing ideas to life through imagination
-    *Brand: Rick Owens* — Visionary, artistic, and uncompromisingly original.
-12. **The Ruler** — Establishing order and excellence
-    *Brand: Louis Vuitton* — Status, luxury, and global cultural leadership.
+1. **The Innocent** — A return to purity and joy  
+   *Brand: Jacquemus* — Childlike wonder, Mediterranean sun, poetic simplicity.  
+2. **The Explorer** — The journey to freedom and self-discovery  
+   *Brand: Arc’teryx* — Performance gear for those seeking the wild.  
+3. **The Sage** — Uncovering truth through knowledge  
+   *Brand: Maison Margiela* — Deconstructing fashion to reveal deeper meaning.  
+4. **The Hero** — Overcoming great odds to prove worth  
+   *Brand: Nike* — Timeless storytelling of courage and greatness.  
+5. **The Outlaw** — Breaking the system to create change  
+   *Brand: Balenciaga* — Provocative, boundary-pushing, and unapologetically subversive.  
+6. **The Magician** — Turning dreams into reality  
+   *Brand: Iris van Herpen* — Fuses tech and couture into wearable art.  
+7. **The Everyman** — Belonging and common humanity  
+   *Brand: Uniqlo* — Simple, functional clothing for everyone.  
+8. **The Lover** — Passion, connection, and beauty  
+   *Brand: Dior* — Romanticism, elegance, and deep emotional storytelling.  
+9. **The Jester** — Lightening up and enjoying life  
+   *Brand: Moschino* — Playful, ironic fashion that doesn’t take itself too seriously.  
+10. **The Caregiver** — Protecting and nurturing others  
+    *Brand: Patagonia* — Ethical, responsible, and earth-conscious.  
+11. **The Creator** — Bringing ideas to life through imagination  
+    *Brand: Rick Owens* — Visionary, artistic, and uncompromisingly original.  
+12. **The Ruler** — Establishing order and excellence  
+    *Brand: Louis Vuitton* — Status, luxury, and global cultural leadership.  
 
 To build a brand story using archetypes, start by choosing one that reflects both your brand’s core and your audience’s deeper desire.
 
@@ -618,7 +617,7 @@ But knowing them individually isn’t enough.
 
 The real strength comes from seeing how they connect and work together as a complete system.
 
-## 4. The Brand Ecosystem
+## The Brand Ecosystem
 
 > “A system is never the sum of its parts, but the product of their interactions.”\
 > — Donella Meadows
@@ -683,7 +682,7 @@ So, the crucial missing piece is understanding how to create audience resonance 
 
 That's what this last chapter is about:
 
-## 5. Audience Resonance
+## Audience Resonance
 
 ### Customer Surveys & Questionnaires
 
