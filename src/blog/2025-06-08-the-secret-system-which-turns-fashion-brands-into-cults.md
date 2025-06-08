@@ -5,7 +5,7 @@ date: 2025-06-08T20:17:00.000Z
 tag:
   - post
 ---
-> “The whole is greater than the sum of its parts.”
+> “The whole is greater than the sum of its parts.”  
 > — Aristotle
 
 Most creative business owners want to build an influential brand.
