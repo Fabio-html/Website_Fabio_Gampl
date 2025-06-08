@@ -1,5 +1,5 @@
 ---
-title: The Secret System Which Turns Fashion Brands Into Cults.
+title: The Secret System Which Turns Fashion Brands Into Cults
 author: Fabio Gampl
 date: 2025-06-08T20:17:00.000Z
 tag:
