@@ -5,7 +5,7 @@ date: 2025-05-16
 ---
 <img src="/assets/Images/2025-05-16/01.png" alt="">
 
-> Don't confuse motion with action.
+> Don't confuse motion with action.  
 > *Benjamin Franklinn*  
 
 Most people think productivity is about doing more.
