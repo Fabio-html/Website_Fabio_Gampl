@@ -698,13 +698,6 @@ Social media isn’t just a content channel; it’s a live mirror that shows you
 
 Engagement (polls, questions, replies) and listening (comments, tags, sentiment) reveal how your brand lives in the culture.
 
-The tone of your brand voice, the references you use, the feeling your visuals give off, all of that is shaped by how your audience interacts with you.
-
-2000s references, and your community starts saying, “You get me.”
-
-Create weekly engagement rituals like “This or That” to spot emotional patterns.
-
-Let those patterns influence your visual language and tone.
 
 ### Focus Groups & Customer Panels
 
@@ -714,15 +707,6 @@ You uncover gaps between your internal brand story and the external perception.�
 
 These sessions are gold for aligning your philosophy, culture, and community.
 
-Host quarterly virtual sessions with 6–8 diverse customers. 
-
-Ask about emotion, not just product: 
-
-* What kind of person wears this?
-* How does this brand make you feel?
-
-Use their words in your copy and storytelling.
-
 ### Wear Trials & User Experience Testing
 
 When people wear your products, they experience the full brand, from fabric and form to packaging, care instructions, and how it fits into their identity.
@@ -731,7 +715,7 @@ This reveals how your design language and brand philosophy translate into real l
 
 A product that looks good but feels off damages trust in your vision.
 
-Send your pieces to 10 carefully selected testers with a mix of body types, lifestyles, and aesthetics. 
+Send your pieces to 10 selected testers.
 
 Include questions like:
 
@@ -741,11 +725,11 @@ Use the answers to align physical design with emotional expectation.
 
 ### Feedback at Events or Points of Sale
 
-In-person moments — pop-ups, retail, shows — give you unfiltered reactions. 
+Pop-ups and retail shows give you unfiltered reactions. 
 
-This is your chance to sense the energy people feel when they step into your world.
+This is your chance to talk directly to people and feel when they step into your world.
 
-That energy shapes your brand culture. 
+That feeling shapes your brand culture. 
 
 The vibe, the music, the scent, the staff interaction, it all contributes to your identity.
 
