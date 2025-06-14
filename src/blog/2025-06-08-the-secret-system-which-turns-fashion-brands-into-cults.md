@@ -727,7 +727,7 @@ Use the answers to align physical design with emotional expectation.
 
 Pop-ups and retail shows give you unfiltered reactions. 
 
-This is your chance to talk directly to people and feel when they step into your world.
+This is your chance to talk directly to people and notice their feelings when they step into your world.
 
 That feeling shapes your brand culture. 
 
