@@ -5,7 +5,7 @@ date: 2025-05-16
 ---
 <img src="/assets/Images/2025-05-16/01.png" alt="">
 
-> Don't confuse motion with action.
+> Don't confuse motion with action.  
 > *Benjamin Franklinn*  
 
 Most people think productivity is about doing more.
@@ -129,7 +129,7 @@ Our sense of self.
 
 Psychological survival starts when we feel our self-worth, social mask, or belonging is in danger.
 
-It’s the panic when your idea gets ignored
+It’s the panic when your idea gets ignored.
 
 It’s the shutdown after posting your art online and getting silence.
 
