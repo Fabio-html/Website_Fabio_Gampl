@@ -129,7 +129,7 @@ Our sense of self.
 
 Psychological survival starts when we feel our self-worth, social mask, or belonging is in danger.
 
-It’s the panic when your idea gets ignored
+It’s the panic when your idea gets ignored.
 
 It’s the shutdown after posting your art online and getting silence.
 
