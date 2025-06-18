@@ -12,7 +12,7 @@
 </head>
 <body>
     
-    <button class="home-button" onclick="window.location.href='/index.html';">Home</button>
+    
 
 
     <div class="main-box">
@@ -45,7 +45,11 @@
 
 
 <section class="blogposts-container"><section class="Blogpost">
-        <a href="/blog/The Secret For Creating Consistently Without Forcing It/"><h2 class="title" >The Secret Of Creating Consistently Without Forcing It</h2></a>
+        <a href="/blog/2025-06-08-the-secret-system-which-turns-fashion-brands-into-cults/"><h2 class="title" >The Secret System Which Turns Fashion Brands Into Cults</h2></a>
+        <p class="info">Fabio Gampl · Jun 8, 2025</p>
+        <hr class="line">
+    </section><section class="Blogpost">
+        <a href="/blog/The Secret For Creating Consistently Without Forcing It/"><h2 class="title" >The Art Of Creating Consistently Without Forcing It</h2></a>
         <p class="info">Fabio Gampl · May 16, 2025</p>
         <hr class="line">
     </section>
@@ -60,33 +64,15 @@
 </div>
 
 
-<script>
-  const scriptURL = 'https://script.google.com/macros/s/AKfycbyjO_v7xsaArZGFt2R1P8n_spCSVIWrGntyqywfxTx49HAPtLEnoerlNv-i8NDajNDC/exec'
-  const form = document.forms['submit-to-google-sheet']
-  const msg = document.getElementById("msg")
 
-  form.addEventListener('submit', e => {
-    e.preventDefault()
-    fetch(scriptURL, { method: 'POST', body: new FormData(form)})
-      .then(response => {
-        msg.innerHTML = "Thank You For Subscribing!"
-        setTimeout(function(){
-            msg.innerHTML = ""
-        },5000)
-        form.reset()
-      }
-      )
-      .catch(error => console.error('Error!', error.message))
-  })
-</script>
     <div class="main-box">
-<section class="email-sub">
+<section class="first-email-sub">
     <p style="color: #BDBDBD;">Join the community for weekly insights. Explore the strategies and habits that help you discover and express your true self.</p>
-    <form>
-     <input type="email" name="email" placeholder="Enter your email" required>
+    <form name="submit-to-google-sheet">
+     <input type="email" name="Email" placeholder="Enter your email" required>
      <button type="submit">Read For Free</button>
     </form>
-    <!-- <span id="msg">Thank You For Subscribing!</span> -->
+    <span id="msg"></span>
  </section>
 
 <section class="footer">
@@ -138,6 +124,7 @@
 
 </div>
 
+
 <script>
   if (window.netlifyIdentity) {
     window.netlifyIdentity.on("init", (user) => {
@@ -148,6 +135,25 @@
       }
     });
   }
+
+
+  const scriptURL = 'https://script.google.com/macros/s/AKfycbyjO_v7xsaArZGFt2R1P8n_spCSVIWrGntyqywfxTx49HAPtLEnoerlNv-i8NDajNDC/exec'
+  const form = document.forms['submit-to-google-sheet']
+  const msg = document.getElementById("msg")
+
+  form.addEventListener('submit', e => {
+    e.preventDefault()
+    fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+      .then(response => {
+        msg.innerHTML = "Thank You For Subscribing!"
+        setTimeout(function(){
+            msg.innerHTML = ""
+        },5000)
+        form.reset()
+      }
+      )
+      .catch(error => console.error('Error!', error.message))
+  })
 </script>
 
 </body>

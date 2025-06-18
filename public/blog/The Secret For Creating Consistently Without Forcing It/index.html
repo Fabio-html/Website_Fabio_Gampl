@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Secret Of Creating Consistently Without Forcing It</title>
+    <title>The Art Of Creating Consistently Without Forcing It</title>
     <link rel="stylesheet" href="/style.css">
     <link rel="stylesheet" href="https://use.typekit.net/eer3cem.css">
     <link rel="stylesheet" href="https://use.typekit.net/eer3cem.css">
@@ -19,12 +19,12 @@
 
     <div class="spacer"></div>
 
-    <h1 class="headline-blog">The Secret Of Creating Consistently Without Forcing It</h1>
+    <h1 class="headline-blog">The Art Of Creating Consistently Without Forcing It</h1>
     <p class="blog-info">Fabio Gampl · May 16, 2025</p>
 
     <img src="/assets/Images/2025-05-16/01.png" alt="">
 <blockquote>
-<p>Don't confuse motion with action.
+<p>Don't confuse motion with action.<br>
 <em>Benjamin Franklinn</em></p>
 </blockquote>
 <p>Most people think productivity is about doing more.</p>
@@ -41,8 +41,7 @@
 <p>And with each scroll, we sink a little deeper.</p>
 <p>We get trapped.</p>
 <p>But maybe there's another way.</p>
-<p>What if there is a different way to approach productivity?</p>
-<p>A healthier, more meaningful way.</p>
+<p>A healthier, more meaningful approach.</p>
 <p>One that not only improves your well-being but also helps you reach your goals faster.</p>
 <p>The key lies not in <strong>motion</strong>, but in <strong>intention</strong>.</p>
 <p>This way of thinking flips the perspective and invites depth.</p>
@@ -63,8 +62,8 @@
 <p>My old routines didn’t work anymore, and my productivity dropped.</p>
 <p>I started blaming myself.</p>
 <p>I tried to force myself to get back to work, but the energy wasn’t there.</p>
-<p>So I paused…</p>
-<p>tooked a step back and question myself about how I defined productivity in the first place.</p>
+<p>So I paused...</p>
+<p>took a step back and questioned how I had defined productivity in the first place.</p>
 <p>Slowly, a new perspective began to form.</p>
 <p>The first shift came when I realized this:</p>
 <p>There are two core forces that drive productivity:</p>
@@ -94,9 +93,9 @@
 <p>That’s when what’s under threat isn’t our body but our <em>identity</em>.</p>
 <p>Our sense of self.</p>
 <p>Psychological survival starts when we feel our self-worth, social mask, or belonging is in danger.</p>
-<p>It’s the panic when we’re rejected.</p>
-<p>The shutdown when we feel unseen.</p>
-<p>The overthinking after a social slip-up.</p>
+<p>It’s the panic when your idea gets ignored.</p>
+<p>It’s the shutdown after posting your art online and getting silence.</p>
+<p>The overthinking after you tried something new.</p>
 <p>In these moments, we’re not trying to stay alive, we’re trying to stay someone.</p>
 <p>Someone coherent, valuable, safe in the eyes of others.</p>
 <p>Because we don’t exist in isolation. We constantly build our identity in relation to others, how they see us, how we want to be seen, who we believe we are.</p>
@@ -129,10 +128,10 @@
 <p>Our definition of productivity widens.</p>
 <p>Instead of blindly sprinting down the first road, we allow ourselves to stop, study the map, and take the best path to our desired destination.</p>
 <p>When acting from aspiration, the underlying motivations are our values, curiosity, and desire to create something meaningful.</p>
-<p>It’s about the <strong>why</strong> behind what you do.</p>
 <p>Instead of forcing yourself into a static system working like a robot, this approach allows more flexibility.</p>
+<p>It invites a deeper question:</p>
 <p>What’s the best thing I can do right now to move in the right direction?</p>
-<p>To help you answer this question, I will give you a framework of the four different phases you could be in right now and how to change your definition of productivity accordingly.</p>
+<p>To help you answer this question, I will give you a framework of the four different project phases you could be in right now and how to change your definition of productivity accordingly.</p>
 <h2>The 4 Phases Of Every Project</h2>
 <img src="/assets/Images/2025-05-16/02.png" alt="">
 <blockquote>
@@ -200,7 +199,6 @@
 <p>For me, it was a season of new experiences, meeting people, exploring ideas, and reading books that sparked my new interest in writing.</p>
 <p>That’s what led to this letter.</p>
 <p>I’m publishing a new one every two weeks to help you stay consistent on your creative path.</p>
-<p>The purpose is to offer reminders to stay on track, because in the chaos of daily life, it’s easy to forget sometimes.</p>
 <p>Thank you for reading.</p>
 <p>Fabio</p>
 
@@ -209,13 +207,13 @@
  
     </div>
     <div class="main-box">
-<section class="email-sub">
+<section class="first-email-sub">
     <p style="color: #BDBDBD;">Join the community for weekly insights. Explore the strategies and habits that help you discover and express your true self.</p>
-    <form>
-     <input type="email" name="email" placeholder="Enter your email" required>
+    <form name="submit-to-google-sheet">
+     <input type="email" name="Email" placeholder="Enter your email" required>
      <button type="submit">Read For Free</button>
     </form>
-    <!-- <span id="msg">Thank You For Subscribing!</span> -->
+    <span id="msg"></span>
  </section>
 
 <section class="footer">
@@ -267,6 +265,7 @@
 
 </div>
 
+
 <script>
   if (window.netlifyIdentity) {
     window.netlifyIdentity.on("init", (user) => {
@@ -277,6 +276,25 @@
       }
     });
   }
+
+
+  const scriptURL = 'https://script.google.com/macros/s/AKfycbyjO_v7xsaArZGFt2R1P8n_spCSVIWrGntyqywfxTx49HAPtLEnoerlNv-i8NDajNDC/exec'
+  const form = document.forms['submit-to-google-sheet']
+  const msg = document.getElementById("msg")
+
+  form.addEventListener('submit', e => {
+    e.preventDefault()
+    fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+      .then(response => {
+        msg.innerHTML = "Thank You For Subscribing!"
+        setTimeout(function(){
+            msg.innerHTML = ""
+        },5000)
+        form.reset()
+      }
+      )
+      .catch(error => console.error('Error!', error.message))
+  })
 </script>
 
 </body>
