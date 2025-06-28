@@ -1,9 +1,10 @@
 :root {
     --main-width: 600px;
-    --main-margin: 30px;
+    --big-margin: 48px;
+    --small-margin: 24px;
     --main-fontsize: 16pt;
     --small-fontsize: 14pt;
-  }
+}
 
 
 body {
@@ -16,8 +17,8 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: start;
-    align-items: center; 
-    margin: 0; 
+    align-items: center;
+    margin: 0;
     font-family: "neue-haas-unica", sans-serif;
     font-weight: 400;
     font-size: var(--main-fontsize);
@@ -42,73 +43,91 @@ body {
 .main-box {
     max-width: var(--main-width);
     padding: 0;
-    margin: 0px 40px 0px 40px; 
+    margin: 0px 40px 0px 40px;
     position: relative;
-    
 }
 
 .spacer {
-  height: calc(50vh - 150px);
-  }
-
-
-.picture, .sub-header, .loadmore{
-    margin-bottom: var(--main-margin);
+    height: calc(50vh - 150px);
 }
 
+.loadmore {
+    margin-bottom: var(--big-margin);
+}
+
+.picture {
+    margin-bottom: var(--big-margin);
+}
 
 .email-sub {
-    margin-bottom: calc(var(--main-margin) * 2);
+    margin-bottom: var(--big-margin);
 }
 
 .first-email-sub {
-    margin-bottom: calc(var(--main-margin) * 4);
+    margin-bottom: calc(var(--big-margin) * 2);
 }
 
-h1 {
+.email-sub-text {
+    margin-top: 0;
+    margin-bottom: var(--small-margin);
+    color: #BDBDBD;
+}
+
+.main-title {
     color: #000000;
     margin: 0;
-    margin-bottom: 30px;
+    margin-bottom: var(--small-margin);
     padding: 0;
     text-align: center;
-    font-size: 65pt;
+    font-size: 70pt;
     line-height: 85%;
     text-align: left;
     align-self: center;
     font-family: 'Times New Roman', Times, serif;
-    font-weight: 200;
+    font-weight: 500;
     top: 0;
 }
 
-blockquote {
-    border-left: 4px solid #BDBDBD;; 
-    margin-left: 0; 
-    margin-bottom: 2em;
-    margin-top: 0;
-    padding-left: 15px;     
-    color: #8a8a8a;;
+.sub-title {
+    color: #000000;
+    margin-bottom: var(--big-margin);
 }
 
-.sub-header{
-    color: #000000;
-    margin-bottom: 100px;
-    
+h1 {
+    font-size: 36pt;
+    line-height: 1.25;
+    font-weight: 500;
 }
 
 h2 {
-    font-size: 30pt;
-    line-height: 1.1;
-    margin-top: 2em;
-    color: #000000;
-  }
+    font-size: 28pt;
+    line-height: 1.3;
+    font-weight: 500;
+}
+
+h3 {
+    font-size: 22pt;
+    line-height: 1.35;
+    font-weight: 500;
+}
+
+p {
+    font-size: var(--main-fontsize);
+    line-height: 1.6;
+    font-weight: 400;
+}
+
+blockquote {
+    border-left: 4px solid #BDBDBD;
+    margin-left: 0;
+    padding-left: 15px;
+    color: #8a8a8a;
+}
 
 a {
     text-decoration: none;
 }
 
-p {
-    margin-bottom: 1.2em; /* or 1.5em for line-height rhythm */
-  }
 
 img {
     width: var(--main-width);
@@ -120,18 +139,28 @@ img {
 .qoute {
     color: #BDBDBD;
     margin-top: 10px;
-    margin-bottom: var(--main-margin);
+    margin-bottom: var(--big-margin);
 }
 
 .headline-blog {
-    font-size: 45pt;
-    margin-bottom: 0;
+    color: #000000;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    line-height: 85%;
+    text-align: left;
+    align-self: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    top: 0;
+    font-size: 50pt;
+    margin-bottom: var(--small-margin);
 }
 
 .blog-info {
     color: #BDBDBD;
-    margin-bottom: var(--main-margin);
-    font-size: var(--mainfontsize-);
+    margin-bottom: var(--big-margin);
+    font-size: var(--small-fontsize);
 }
 
 form {
@@ -174,6 +203,17 @@ form button {
     margin: 0;
 }
 
+form button:hover {
+    background-color: #919191;
+    color: #ffffff;
+    outline: none;
+    padding: 15px 15px;
+    height: auto;
+    width: fit-content;
+    font-size: var(--small-fontsize);
+    border: 1px solid #BDBDBD;
+}
+
 span {
     color: #BDBDBD;
     margin-top: 10px;
@@ -187,22 +227,23 @@ span {
 }
 
 .blogposts-container {
-    margin-bottom: 50px;
+    margin-bottom: calc(var(--big-margin) * 2);
 }
 
 .title {
     font-family: 'Times New Roman', Times, serif;
     font-weight: 200;
     font-size: 27pt;
-    margin-top: 40px;
-    margin-bottom: 15px;
+    margin-top: var(--small-margin);
+    margin-bottom: calc(var(--small-margin) / 2);
+    color: #000000;
 }
 
 .info {
-    color: #BDBDBD;
-    margin-top: 0px;
-    margin-bottom: 80px;
+    margin-top: 0;
+    margin-bottom: var(--big-margin);
     font-size: var(--small-fontsize);
+    color: #BDBDBD;
 }
 
 .line {
@@ -217,7 +258,7 @@ span {
 .footer {
     max-width: var(--main-width);
     padding: 0;
-    margin: 0px 40px 0px 40px; 
+    margin: 0px 40px 0px 40px;
     position: relative;
     align-content: center;
     align-items: center;
@@ -225,7 +266,7 @@ span {
 }
 
 .margin {
-    height: var(--main-margin);
+    height: var(--big-margin);
 }
 
 .rights {
@@ -235,9 +276,9 @@ span {
 
 .icon-container {
     display: flex;
-    gap: 15px; 
+    gap: 15px;
     justify-content: center;
-    align-items: center; 
+    align-items: center;
     align-content: center;
 }
 
@@ -247,41 +288,54 @@ span {
 
 @media (max-width: 600px) {
     :root {
-        --main-width: calc(100vw - 40px);
-        --main-margin: 20px;
-        --main-fontsize: 13pt;
+        --main-width: calc(100vw - 45px);
+        --big-margin: 36px;
+        --small-margin: 18px;
+        --main-fontsize: 12pt;
         --small-fontsize: 10pt;
-          }
+    }
 
-        .spacer {
-            height: calc(50vh - 280px);
-            }
+    h1 {
+        font-size: 36pt;
+        line-height: 1.25;
+        font-weight: 500;
+    }
 
-        h1 {
-            font-size: 45pt;
-        }
+    h2 {
+        font-size: 28pt;
+        line-height: 1.3;
+        font-weight: 500;
+    }
 
-        .headline-blog {
-            font-size: 35pt;
-        }
+    h3 {
+        font-size: 22pt;
+        line-height: 1.35;
+        font-weight: 500;
+    }
 
-        .title {
-            font-size: 20pt;
-            margin-top: 30px;
-        }
+    p {
+        font-size: var(--main-fontsize);
+        line-height: 1.6;
+        font-weight: 400;
+    }
 
-        .info {
-            margin-bottom: 60px;
-        }
+    .spacer {
+        height: calc(50vh - 280px);
+    }
 
-        .sub-header, .email-sub {
-            margin-bottom: calc(var(--main-margin) *5);
-        }
+    .main-title {
+        font-size: 50pt;
+    }
 
-        .picture {
-            margin-bottom: var(--main-margin);
-        }
-    
-      }
-    
+    .title {
+        font-size: 20pt;
+        margin-top: var(--small-margin);
+        margin-bottom: calc(var(--small-margin) / 2);
+    }
 
+    .headline-blog {
+        font-size: 35pt;
+    }
+
+
+}

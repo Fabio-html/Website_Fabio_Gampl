@@ -35,10 +35,10 @@ body {
     z-index: 10;
 }
 
-.hub > * {
+.hub>* {
     color: black;
     text-decoration: none;
-    border: none;    
+    border: none;
     margin: 0;
     align-self: start;
     grid-row: 2 / 3;
@@ -117,7 +117,7 @@ body {
 .about-hub-items video {
     height: 100vh;
     z-index: 20;
-    object-fit: contain;  
+    object-fit: contain;
 }
 
 .projects-hub-items {
@@ -146,7 +146,8 @@ body {
 }
 
 
-.section video, .section img {
+.section video,
+.section img {
     height: 90%;
     width: auto;
     transform: translateY(-3%);
@@ -155,29 +156,53 @@ body {
 
 
 @keyframes intro {
-    from { opacity: 0; }
-    to { opacity: 1; }
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
 }
 
 @keyframes moveProjects {
-    from {transform: translate(0, 0); }
-    to { transform: translate(-60vw, 0); 
+    from {
+        transform: translate(0, 0);
+    }
+
+    to {
+        transform: translate(-60vw, 0);
     }
 }
 
 @keyframes moveProjectsReverse {
-    from { transform: translate(-60vw, 0); }
-    to { transform: translate(0, 0); }
+    from {
+        transform: translate(-60vw, 0);
+    }
+
+    to {
+        transform: translate(0, 0);
+    }
 }
 
 @keyframes moveAbout {
-    from {transform: translate(0, 0); }
-    to { transform: translate(60vw, 0); }
+    from {
+        transform: translate(0, 0);
+    }
+
+    to {
+        transform: translate(60vw, 0);
+    }
 }
 
 @keyframes moveAboutReverse {
-    from { transform: translate(60vw, 0); }
-    to { transform: translate(0, 0); }
+    from {
+        transform: translate(60vw, 0);
+    }
+
+    to {
+        transform: translate(0, 0);
+    }
 }
 
 
@@ -187,16 +212,19 @@ body {
 
 
 @media (max-aspect-ratio: 1/1) {
-    .section video, .section img {
+
+    .section video,
+    .section img {
         height: auto;
         width: 90vw;
-}
+    }
 }
 
 @media screen and (max-width: 765px) {
 
     .hub {
-        grid-template-columns: repeat(3fr, 1fr); /* Reduziere auf 3 Spalten */
+        grid-template-columns: repeat(3fr, 1fr);
+        /* Reduziere auf 3 Spalten */
         height: 100dvh;
         width: 100vw;
         padding: 0;
@@ -206,7 +234,7 @@ body {
         justify-items: center;
         align-items: center;
         align-content: center;
-        position: fixed; 
+        position: fixed;
     }
 
 
@@ -220,7 +248,7 @@ body {
 
     .blog-text {
         grid-column: 3 / 4;
-        grid-row: 1 / 2; 
+        grid-row: 1 / 2;
         transform: translateY(0);
         padding-top: 15px;
     }
@@ -252,14 +280,14 @@ body {
         padding-left: 0;
         transform: translateX(-20%);
     }
-    
+
     .about-description {
         grid-column: 1 / 4;
         text-align: left;
         justify-self: start;
         padding-left: 15px;
     }
-    
+
     .projects-title {
         grid-column: 2 / 5;
         text-align: left;
@@ -267,59 +295,101 @@ body {
         padding-left: 15px;
 
     }
-    
+
     .projects-date {
         grid-column: 5 / 6;
         text-align: left;
         padding-right: 15px;
     }
-    
 
-@keyframes moveProjects {
-    from { transform: translate(0, 0); }
-    to { transform: translate(-80vw, 0); }
-}
 
-@keyframes moveProjectsReverse {
-    from { transform: translate(-80vw, 0); }
-    to { transform: translate(0, 0); }
-}
+    @keyframes moveProjects {
+        from {
+            transform: translate(0, 0);
+        }
 
-@keyframes moveAbout {
-    from {transform: translate(0, 0); }
-    to { transform: translate(79.5vw, 0); }
-}
+        to {
+            transform: translate(-80vw, 0);
+        }
+    }
 
-@keyframes moveAboutReverse {
-    from { transform: translate(79.5vw, 0); }
-    to { transform: translate(0, 0); }
-}
+    @keyframes moveProjectsReverse {
+        from {
+            transform: translate(-80vw, 0);
+        }
+
+        to {
+            transform: translate(0, 0);
+        }
+    }
+
+    @keyframes moveAbout {
+        from {
+            transform: translate(0, 0);
+        }
+
+        to {
+            transform: translate(79.5vw, 0);
+        }
+    }
+
+    @keyframes moveAboutReverse {
+        from {
+            transform: translate(79.5vw, 0);
+        }
+
+        to {
+            transform: translate(0, 0);
+        }
+    }
 }
 
 @media screen and (max-width: 345px) {
-    .hub > * {
+    .hub>* {
         font-size: 7pt;
     }
+
     .fabio-text {
         font-size: 12pt;
     }
+
     @keyframes moveProjects {
-        from { transform: translate(0, 16vh); }
-        to { transform: translate(-77vw, 16vh); }
+        from {
+            transform: translate(0, 16vh);
+        }
+
+        to {
+            transform: translate(-77vw, 16vh);
+        }
     }
-    
+
     @keyframes moveProjectsReverse {
-        from { transform: translate(-77vw, 16vh); }
-        to { transform: translate(0, 16vh); }
+        from {
+            transform: translate(-77vw, 16vh);
+        }
+
+        to {
+            transform: translate(0, 16vh);
+        }
     }
-    
+
     @keyframes moveAbout {
-        from {transform: translate(0, 16vh); }
-        to { transform: translate(75.5vw, 16vh); }
+        from {
+            transform: translate(0, 16vh);
+        }
+
+        to {
+            transform: translate(75.5vw, 16vh);
+        }
     }
-    
+
     @keyframes moveAboutReverse {
-        from { transform: translate(75.5vw, 16vh); }
-        to { transform: translate(0, 16vh); }
+        from {
+            transform: translate(75.5vw, 16vh);
+        }
+
+        to {
+            transform: translate(0, 16vh);
+        }
     }
 }
