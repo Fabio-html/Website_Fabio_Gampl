@@ -26,6 +26,7 @@ body {
 
 .home-button {
     background-color: white;
+    color: #000000;
     outline: none;
     padding: 10px 10px;
     height: auto;
@@ -188,17 +189,22 @@ form input {
     border-right: 0;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
     margin: 0;
 }
 
 form button {
     background-color: white;
+    color: #000000;
     outline: none;
     padding: 15px 15px;
     height: auto;
     width: fit-content;
     font-size: var(--small-fontsize);
     border: 1px solid #BDBDBD;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
     margin: 0;
@@ -275,16 +281,16 @@ span {
     font-size: var(--small-fontsize);
 }
 
+.main-box {
+    width: var(--main-width);
+}
+
 .icon-container {
     display: flex;
     gap: 15px;
     justify-content: center;
     align-items: center;
     align-content: center;
-}
-
-.main-box {
-    width: var(--main-width);
 }
 
 @media (max-width: 600px) {
@@ -325,7 +331,7 @@ span {
     }
 
     .main-title {
-        font-size: 50pt;
+        font-size: 47pt;
     }
 
     .title {
@@ -338,5 +344,11 @@ span {
         font-size: 35pt;
     }
 
+    .icon-container {
+        gap: 5px;
+    }
 
+    .icon-container svg {
+        transform: scale(70%);
+    }
 }
