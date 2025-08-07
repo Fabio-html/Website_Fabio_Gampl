@@ -26,8 +26,8 @@
 
 
 
-  const form = document.getElementById('subscribe-form');
-  const message = document.getElementById('message');
+document.querySelectorAll('.subscribe-form').forEach((form) => {
+  const message = form.querySelector('.message');
 
   form.addEventListener('submit', async (event) => {
     event.preventDefault();
@@ -53,6 +53,8 @@
       message.textContent = 'Network error, please try again later.';
     }
   });
+});
+
 
 
 </script>

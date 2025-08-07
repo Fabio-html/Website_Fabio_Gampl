@@ -532,7 +532,7 @@
 
 <section class="email-sub">
     <p class="email-sub-text">Join the community for weekly insights. Explore the strategies and habits that help you discover and express your true self.</p>
-        <form id="subscribe-form">
+        <form class="subscribe-form">
             <input 
                 type="email" 
                 id="email" 
@@ -609,8 +609,8 @@
 
 
 
-  const form = document.getElementById('subscribe-form');
-  const message = document.getElementById('message');
+document.querySelectorAll('.subscribe-form').forEach((form) => {
+  const message = form.querySelector('.message');
 
   form.addEventListener('submit', async (event) => {
     event.preventDefault();
@@ -636,6 +636,8 @@
       message.textContent = 'Network error, please try again later.';
     }
   });
+});
+
 
 
 </script>
