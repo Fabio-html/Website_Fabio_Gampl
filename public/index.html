@@ -161,34 +161,31 @@
 
 
     const forms = document.querySelectorAll('.subscribe-form');
+    const message = document.getElementById('message');
 
-    forms.forEach((form) => {
-      const message = form.querySelector('.message');
+    form.addEventListener('submit', async (event) => {
+      event.preventDefault();
 
-      form.addEventListener('submit', async (event) => {
-        event.preventDefault();
+      const email = form.email.value;
 
-        const email = form.email.value;
+      try {
+        const response = await fetch('/.netlify/functions/subscribe', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ email })
+        });
 
-        try {
-          const response = await fetch('/.netlify/functions/subscribe', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ email })
-          });
+        const result = await response.json();
 
-          const result = await response.json();
-
-          if (response.ok) {
-            message.textContent = "You're in! Thanks for subscribing.";
-            form.reset();
-          } else {
-            message.textContent = 'Error: ' + (result.error || 'Unknown error');
-          }
-        } catch (error) {
-          message.textContent = 'Network error, please try again later.';
+        if (response.ok) {
+          message.textContent = "You're in! Thanks for subscribing.";
+          form.reset();
+        } else {
+          message.textContent = 'Error: ' + (result.error || 'Unknown error');
         }
-      });
+      } catch (error) {
+        message.textContent = 'Network error, please try again later.';
+      }
     });
 
 
