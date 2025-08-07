@@ -287,8 +287,8 @@
 
 
 
-document.querySelectorAll('.subscribe-form').forEach((form) => {
-  const message = form.querySelector('.message');
+ const forms = document.querySelectorAll('.subscribe-form');
+  const message = document.getElementById('message');
 
   form.addEventListener('submit', async (event) => {
     event.preventDefault();
@@ -314,8 +314,6 @@ document.querySelectorAll('.subscribe-form').forEach((form) => {
       message.textContent = 'Network error, please try again later.';
     }
   });
-});
-
 
 
 </script>
