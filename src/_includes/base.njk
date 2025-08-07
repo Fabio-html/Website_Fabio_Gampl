@@ -44,13 +44,13 @@
       const result = await response.json();
 
       if (response.ok) {
-        message.textContent = 'Danke fürs Abonnieren!';
+        message.textContent = "You're in! Thanks for subscribing.";
         form.reset();
       } else {
-        message.textContent = 'Fehler: ' + (result.error || 'Unbekannter Fehler');
+        message.textContent = 'Error: ' + (result.error || 'Unknown error');
       }
     } catch (error) {
-      message.textContent = 'Netzwerkfehler, bitte später versuchen.';
+      message.textContent = 'Network error, please try again later.';
     }
   });
 

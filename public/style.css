@@ -60,6 +60,7 @@ body {
 }
 
 .email-sub {
+    margin-top: var(--big-margin);
     margin-bottom: var(--big-margin);
 }
 
@@ -220,7 +221,7 @@ span {
     display: block;
 }
 
-#msg {
+#message {
     color: #d61212;
     margin-top: 5px;
     font-size: var(--small-fontsize);
