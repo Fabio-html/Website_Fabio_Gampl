@@ -1,7 +1,7 @@
 ---
 title: The Art Of Creating Consistently Without Forcing It
 author: Fabio Gampl
-date: 2025-05-16
+date: 2025-08-11T18:16:00.000+03:00
 ---
 <img src="/assets/Images/2025-05-16/01.png" alt="">
 
