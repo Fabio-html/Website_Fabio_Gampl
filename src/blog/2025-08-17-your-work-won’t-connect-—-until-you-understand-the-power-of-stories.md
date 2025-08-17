@@ -7,7 +7,7 @@ tag:
 ---
 ![](/assets/Images/the-universe-is-made-of-stories.png)
 
-> “The universe is made of stories, not of atoms.” 
+> “The universe is made of stories, not of atoms.”  
 > — Muriel Rukeyser
 
 Storytelling isn’t just superficial entertainment. 
