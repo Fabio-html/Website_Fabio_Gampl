@@ -1,5 +1,5 @@
 ---
-title: Your Work Won’t Connect — Until You Understand The Power Of Stories.
+title: Your Work Won’t Connect — Until You Understand The Power Of Stories
 author: Fabio Gampl
 date: 2025-08-17T18:45:00.000+03:00
 tag:
