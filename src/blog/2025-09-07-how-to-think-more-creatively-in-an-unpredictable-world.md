@@ -79,6 +79,9 @@ So when the destination is unknown, the only way forward is to think in systems.
 
 ## Systems Thinking
 
+> “There are no separate systems. The world is a continuum. Where to draw a boundary around a system depends on the purpose of the discussion.”\
+> — *Donella H. Meadows*
+
 Reality is a system of systems, all intertwined.
 
 If you zoom out, reality is one huge, complex network where everything affects everything else. 
