@@ -7,9 +7,6 @@ tag:
 ---
 ![](/assets/Images/linear-thinking-vs-systems-thinking.png)
 
-> “Creativity is just connecting things.” \
-> ― Steve Jobs
-
 We’re trained to think linearly, yet creativity thrives in thinking in systems.
 
 Ask most people what school does, and they'll say it teaches you knowledge—math equations, historical facts, or writing rules.
