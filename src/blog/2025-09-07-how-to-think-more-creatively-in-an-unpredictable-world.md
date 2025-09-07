@@ -126,7 +126,7 @@ A sense of direction gives you a reference point to evaluate whether your action
 
 But at the same time, because it isn’t a rigid, fixed endpoint, it leaves room to pivot, experiment, and adjust as circumstances change.
 
-### (2) Investigate Carefully How Different Areas Of Your Life Interact and Influence Your Progress Toward Your Direction
+### (2) Investigate Carefully How Different Areas Of Your Life Interact and Influence Your Progress Toward This Direction
 
 Linear thinking isolates, systems thinking connects.
 
