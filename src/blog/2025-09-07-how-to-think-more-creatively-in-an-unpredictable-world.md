@@ -19,7 +19,9 @@ Yet beneath all that memorization lies something much more significant:
 A framework for how to think.
 
 This framework is very useful when following a proven sequence of steps, like following an essay structure, using the scientific method, or solving for x in algebra.
+
 However, when you're trying to build something of your own—when there's no standard path to follow, or career leader to climb?
+
 That same framework you learn in school becomes your biggest obstacle.
 
 Because it assumes you know where you’re going.
@@ -119,7 +121,9 @@ You can adapt as opportunities, failures, and insights appear along the way.
 This shift in thinking also becomes increasingly important in the age of AI.
 
 Since no one can predict with certainty how the world will look in five years, flexibility and adaptability will be crucial traits.
+
 A sense of direction gives you a reference point to evaluate whether your actions, habits, or systems are moving you closer to the life you want. 
+
 But at the same time, because it isn’t a rigid, fixed endpoint, it leaves room to pivot, experiment, and adjust as circumstances change.
 
 ### (2) Investigate Carefully How Different Areas Of Your Life Interact and Influence Your Progress Toward Your Direction
