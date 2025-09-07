@@ -144,11 +144,15 @@ When you start seeing life this way, you begin to identify leverage points.
 
 Leverage points are small actions that create large effects across multiple subsystems.
 
-There are two main types of leverage points: **internal** and **external**.
+There are two main types of leverage points: internal and external.
 
-**Internal leverage points** are within your control — your habits, your mindset, your skills, your relationships. Changing one of these can ripple into every area of life.
+**Internal leverage points** are within your control — your habits, your mindset, your skills, your relationships. 
 
-**External leverage points** lie outside your control, but you can position yourself to benefit from them. These are shifts in technology, culture, or economics that reshape the environment you move in.
+Changing one of these can ripple into every area of life.
+
+**External leverage points** lie outside your control, but you can position yourself to benefit from them.
+
+These are shifts in technology, culture, or economics that reshape the environment you move in.
 
 Meditation, for instance, is an internal leverage point.
 
