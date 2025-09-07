@@ -170,9 +170,9 @@ Yet nobody can predict exactly when or how these changes will unfold.
 
 This uncertainty is where systems thinking thrives. 
 
-While linear thinking makes you see each technological breakthrough as a threat to your plan, systems thinkers see opportunities to recalibrate. 
+While linear thinking makes you see each technological breakthrough as a threat to your plan, systems thinking allows you to see opportunities and recalibrate. 
 
-They focus on connections rather than predictions, building the flexibility to pivot and the mental framework to spot leverage points others miss.
+It focuses on connections rather than predictions, building the flexibility to pivot and the mental framework to spot leverage points others miss.
 
 Because the future doesn't unfold in straight lines - it emerges from the intersections between disciplines, technologies, and human creativity.
 
