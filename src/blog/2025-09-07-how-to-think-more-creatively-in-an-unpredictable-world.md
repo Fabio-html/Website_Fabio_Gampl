@@ -153,15 +153,15 @@ There are two main types of leverage points: internal and external.
 
 Changing one of these can ripple into every area of life.
 
-**External leverage points** lie outside your control, but you can position yourself to benefit from them.
-
-These are shifts in technology, culture, or economics that reshape the environment you move in.
-
 Meditation, for instance, is an internal leverage point.
 
 Building this habit into your day strengthens focus, reduces stress, and sharpens self-awareness — benefits that ripple outward and ultimately feed back into your creative output.
 
-Artificial intelligence, on the other hand, is an external leverage point.
+**External leverage points** lie outside your control, but you can position yourself to benefit from them.
+
+These are shifts in technology, culture, or economics that reshape the environment you move in.
+
+Artificial intelligence is one of the biggest external leverage points right now.
 
 You don’t control its existence, but you can adapt to it and use it to amplify your reach. 
 
