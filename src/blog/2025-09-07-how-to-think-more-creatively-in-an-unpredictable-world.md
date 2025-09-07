@@ -14,7 +14,7 @@ We’re trained to think linearly, yet creativity thrives in thinking in systems
 
 Ask most people what school does, and they'll say it teaches you knowledge—math equations, historical facts, or writing rules.
 
-Yet beneath all that memorization lies something much more significant:
+While this is true, beneath all that memorization lies something much more significant:
 
 A framework for how to think.
 
