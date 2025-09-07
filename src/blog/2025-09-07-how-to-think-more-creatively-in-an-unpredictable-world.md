@@ -1,5 +1,5 @@
 ---
-title: "Think Creatively: Master Systems Thinking to Build Your Own Path"
+title: How to Use Systems Thinking to Build Your Own Creative Path
 author: Fabio Gampl
 date: 2025-09-07T17:21:00.000+03:00
 tag:
