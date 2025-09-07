@@ -37,7 +37,7 @@ That’s when linear thinking fails and systems thinking becomes your most valua
 Most people think the path to achievement looks like this:
 
 1. Define your goal.
-2. Create your roadmap.
+2. Outline your course of action.
 3. Stick to the plan.
 
 This approach works well for established career paths. 
