@@ -7,6 +7,9 @@ tag:
 ---
 ![](/assets/Images/linear-thinking-vs-systems-thinking.png)
 
+> “Linear thinking is useful in a stable world. In a changing world, it’s limiting.” \
+> *– Peter Senge*
+
 We’re trained to think linearly, yet creativity thrives in thinking in systems.
 
 Ask most people what school does, and they'll say it teaches you knowledge—math equations, historical facts, or writing rules.
