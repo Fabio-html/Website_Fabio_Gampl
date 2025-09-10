@@ -1,4 +1,5 @@
 const { DateTime } = require("luxon");
+const pluginSitemap = require("@quasibit/eleventy-plugin-sitemap");
 
 
 module.exports = function (eleventyConfig) {
@@ -10,6 +11,14 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addFilter("postDate", (dateObj) => {
         return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED);
     });
+
+    eleventyConfig.addPlugin(pluginSitemap, {
+        sitemap: {
+            hostname: "https://beyondaesthetic.org/", // replace with your website URL
+        }
+    });
+
+    console.log("Sitemap plugin loaded");
 
     return {
         dir: {
