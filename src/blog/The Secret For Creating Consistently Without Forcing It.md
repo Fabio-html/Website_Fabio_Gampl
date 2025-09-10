@@ -2,6 +2,8 @@
 title: The Art Of Creating Consistently Without Forcing It
 author: Fabio Gampl
 date: 2025-08-10T12:00:00.000+03:00
+permalink: "/article/the-art-of-creating-consistently-without-forcing-it/"
+eleventyExcludeFromSitemap: false
 ---
 <img src="/assets/Images/2025-05-16/01.png" alt="">
 
