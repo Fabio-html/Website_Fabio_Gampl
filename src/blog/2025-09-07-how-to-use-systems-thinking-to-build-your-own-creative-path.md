@@ -7,6 +7,8 @@ tag:
 ---
 ![](/assets/Images/linear-thinking-vs-systems-thinking.png)
 
+>
+>
 > “Linear thinking is useful in a stable world. In a changing world, it’s limiting.” \
 > *– Peter Senge*
 
@@ -186,3 +188,5 @@ Because the future doesn't unfold in straight lines - it emerges from the inters
 Thank you for reading, 
 
 Fabio
+
+![]()
